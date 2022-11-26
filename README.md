@@ -1,3 +1,5 @@
+🐳 Yonsei Department of Economics & Digital Arts
+💙 YBigTa / YCC 
 🏆 Pokemon Unite Master Rank For 6 Seasons
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
