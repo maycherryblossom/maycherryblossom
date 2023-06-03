@@ -1,4 +1,4 @@
-🐳 Yonsei Department of Economics & Applied Statistics      
+🐳 Yonsei Department of Economics & Applied Statistics & Computer Science     
 🏆 Pokemon Master 
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
