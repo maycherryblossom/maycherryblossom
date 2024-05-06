@@ -1,5 +1,4 @@
-🐳 Yonsei Department of Economics & Applied Statistics & Computer Science     
-🏆 Pokemon Master 
+🐳 Virtual Reality, Computer Graphics, Human-Computer Interaction   
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
